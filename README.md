@@ -1,1 +1,1 @@
-This is a local change
+This is final after resolving merge conflicts
